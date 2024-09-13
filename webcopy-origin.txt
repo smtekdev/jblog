@@ -1,0 +1,720 @@
+Uri: http://jackblog.mystartupcrew.com/
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\index.htm
+Content Type: text/html
+
+Uri: http://jackblog.mystartupcrew.com/comments/feed/
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://jackblog.mystartupcrew.com/feed/
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/bdthemes-element-pack-lite/assets/css/bdt-uikit.css?ver=3.17.0
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\bdthemes-element-pack-lite\assets\css\bdt-uikit.css
+Content Type: text/css
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/bdthemes-element-pack-lite/assets/css/ep-helper.css?ver=5.8.1
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\bdthemes-element-pack-lite\assets\css\ep-helper.css
+Content Type: text/css
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/bdthemes-element-pack-lite/assets/images/loading.svg
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\bdthemes-element-pack-lite\assets\images\loading.svg
+Content Type: image/svg+xml
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/bdthemes-element-pack-lite/assets/js/bdt-uikit.min.js?ver=3.17.0
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\bdthemes-element-pack-lite\assets\js\bdt-uikit.min.js
+Content Type: application/javascript
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/bdthemes-element-pack-lite/assets/js/common/helper.min.js?ver=5.8.1
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\bdthemes-element-pack-lite\assets\js\common\helper.min.js
+Content Type: application/javascript
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/bdthemes-prime-slider-lite/assets/css/prime-slider-site.css?ver=3.15.7
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\bdthemes-prime-slider-lite\assets\css\prime-slider-site.css
+Content Type: text/css
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/bdthemes-prime-slider-lite/assets/css/ps-sequester.css?ver=3.15.7
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\bdthemes-prime-slider-lite\assets\css\ps-sequester.css
+Content Type: text/css
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/bdthemes-prime-slider-lite/assets/js/prime-slider-site.min.js?ver=3.15.7
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\bdthemes-prime-slider-lite\assets\js\prime-slider-site.min.js
+Content Type: application/javascript
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.16.2
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\elementor-pro\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\elementor-pro\assets\css\widget-nav-menu.min.css
+Content Type: text/css
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.16.2
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
+Content Type: application/javascript
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.16.2
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.16.2
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: application/javascript
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\elementor-pro\assets\lib\smartmenus\jquery.smartmenus.min.js
+Content Type: application/javascript
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.16.4
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\elementor\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.16.4
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.16.4
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.16.4
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.23.0
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.23.0
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.23.0
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.23.0
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: font/ttf
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.23.0
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.23.0
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\all.min.css
+Content Type: text/css
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/mp3-music-player-by-sonaar/public/css/sonaar-music-public.css?ver=5.7.1
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\mp3-music-player-by-sonaar\public\css\sonaar-music-public.css
+Content Type: text/css
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/mp3-music-player-by-sonaar/public/js/iron-audioplayer/00.moments.min.js?ver=5.7.1
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\mp3-music-player-by-sonaar\public\js\iron-audioplayer\00.moments.min.js
+Content Type: application/javascript
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/mp3-music-player-by-sonaar/public/js/iron-audioplayer/iron-audioplayer.js?ver=5.7.1
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\mp3-music-player-by-sonaar\public\js\iron-audioplayer\iron-audioplayer.js
+Content Type: application/javascript
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/mp3-music-player-by-sonaar/public/js/sonaar-music-public.js?ver=5.7.1
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\mp3-music-player-by-sonaar\public\js\sonaar-music-public.js
+Content Type: application/javascript
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/mp3-music-player-by-sonaar/public/js/sr-scripts.js?ver=2.0
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\mp3-music-player-by-sonaar\public\js\sr-scripts.js
+Content Type: application/javascript
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/mp3-music-player-by-sonaar/public/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\mp3-music-player-by-sonaar\public\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/mp3-music-player-by-sonaar/public/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\mp3-music-player-by-sonaar\public\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/mp3-music-player-by-sonaar/public/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\mp3-music-player-by-sonaar\public\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/mp3-music-player-by-sonaar/public/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\mp3-music-player-by-sonaar\public\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/mp3-music-player-by-sonaar/public/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\mp3-music-player-by-sonaar\public\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/mp3-music-player-by-sonaar/public/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\mp3-music-player-by-sonaar\public\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/mp3-music-player-by-sonaar/public/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\mp3-music-player-by-sonaar\public\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/mp3-music-player-by-sonaar/public/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\mp3-music-player-by-sonaar\public\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/mp3-music-player-by-sonaar/public/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\mp3-music-player-by-sonaar\public\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/mp3-music-player-by-sonaar/public/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\mp3-music-player-by-sonaar\public\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/mp3-music-player-by-sonaar/public/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\mp3-music-player-by-sonaar\public\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/mp3-music-player-by-sonaar/public/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\mp3-music-player-by-sonaar\public\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/mp3-music-player-by-sonaar/public/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\mp3-music-player-by-sonaar\public\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/mp3-music-player-by-sonaar/public/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\mp3-music-player-by-sonaar\public\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/mp3-music-player-by-sonaar/public/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\mp3-music-player-by-sonaar\public\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/mp3-music-player-by-sonaar/public/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\mp3-music-player-by-sonaar\public\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/mp3-music-player-by-sonaar/public/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\mp3-music-player-by-sonaar\public\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/mp3-music-player-by-sonaar/public/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\mp3-music-player-by-sonaar\public\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/mp3-music-player-by-sonaar/public/webfonts/sricons/font/sricons.eot?5.6
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\mp3-music-player-by-sonaar\public\webfonts\sricons\font\sricons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/mp3-music-player-by-sonaar/public/webfonts/sricons/font/sricons.svg?5.6
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\mp3-music-player-by-sonaar\public\webfonts\sricons\font\sricons.svg
+Content Type: image/svg+xml
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/mp3-music-player-by-sonaar/public/webfonts/sricons/font/sricons.ttf?5.6
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\mp3-music-player-by-sonaar\public\webfonts\sricons\font\sricons.ttf
+Content Type: font/ttf
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/mp3-music-player-by-sonaar/public/webfonts/sricons/font/sricons.woff2?5.6
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\mp3-music-player-by-sonaar\public\webfonts\sricons\font\sricons.woff2
+Content Type: font/woff2
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/mp3-music-player-by-sonaar/public/webfonts/sricons/font/sricons.woff?5.6
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\mp3-music-player-by-sonaar\public\webfonts\sricons\font\sricons.woff
+Content Type: font/woff
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/xpro-elementor-addons/assets/css/xpro-icons.min.css?ver=1.0.0
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\xpro-elementor-addons\assets\css\xpro-icons.min.css
+Content Type: text/css
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/xpro-elementor-addons/assets/css/xpro-responsive.css?ver=1.4.4.4
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\xpro-elementor-addons\assets\css\xpro-responsive.css
+Content Type: text/css
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/xpro-elementor-addons/assets/css/xpro-widgets.css?ver=1.4.4.4
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\xpro-elementor-addons\assets\css\xpro-widgets.css
+Content Type: text/css
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/xpro-elementor-addons/assets/fonts/xpro-icons.eot?d5ys91
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\xpro-elementor-addons\assets\fonts\xpro-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/xpro-elementor-addons/assets/fonts/xpro-icons.svg?d5ys91
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\xpro-elementor-addons\assets\fonts\xpro-icons.svg
+Content Type: image/svg+xml
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/xpro-elementor-addons/assets/fonts/xpro-icons.ttf?d5ys91
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\xpro-elementor-addons\assets\fonts\xpro-icons.ttf
+Content Type: font/ttf
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/xpro-elementor-addons/assets/fonts/xpro-icons.woff?d5ys91
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\xpro-elementor-addons\assets\fonts\xpro-icons.woff
+Content Type: font/woff
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/xpro-elementor-addons/assets/images/spinner.gif
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\xpro-elementor-addons\assets\images\spinner.gif
+Content Type: image/gif
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/xpro-elementor-addons/assets/images/team-shape-2.png
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\xpro-elementor-addons\assets\images\team-shape-2.png
+Content Type: image/png
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/xpro-elementor-addons/assets/js/xpro-widgets.js?ver=1.4.4.4
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\xpro-elementor-addons\assets\js\xpro-widgets.js
+Content Type: application/javascript
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/xpro-elementor-addons/inc/controls/assets/css/widgetarea-editor.css?ver=1.4.4.4
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\xpro-elementor-addons\inc\controls\assets\css\widgetarea-editor.css
+Content Type: text/css
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/plugins/xpro-elementor-addons/inc/controls/assets/js/widgetarea-editor.js?ver=1.4.4.4
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\plugins\xpro-elementor-addons\inc\controls\assets\js\widgetarea-editor.js
+Content Type: application/javascript
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/themes/astra/assets/css/minified/main.min.css?ver=4.8.1
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\themes\astra\assets\css\minified\main.min.css
+Content Type: text/css
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.8.1
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\themes\astra\assets\js\minified\frontend.min.js
+Content Type: application/javascript
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/uploads/2024/09/200302_r35897.webp
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\uploads\2024\09\200302_r35897.webp
+Content Type: 
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/uploads/2024/09/360_F_962464511_TGtGaCNVJUycH50o3GnBAyl6tqGQG60z.jpg
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\uploads\2024\09\360_F_962464511_TGtGaCNVJUycH50o3GnBAyl6tqGQG60z.jpg
+Content Type: image/jpeg
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/uploads/2024/09/5792d7bb60.jpg
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\uploads\2024\09\5792d7bb60.jpg
+Content Type: image/jpeg
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/uploads/2024/09/abstract-musical-background-in-white-and-pink-color-vector.jpg
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\uploads\2024\09\abstract-musical-background-in-white-and-pink-color-vector.jpg
+Content Type: image/jpeg
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/uploads/2024/09/background_main_contact_form_1024x391_by_omertexltd_ddyoyqd-fullview.jpg
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\uploads\2024\09\background_main_contact_form_1024x391_by_omertexltd_ddyoyqd-fullview.jpg
+Content Type: image/jpeg
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/uploads/2024/09/dAILY-GRIND-LOGO-PNG-1024x415.png
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\uploads\2024\09\dAILY-GRIND-LOGO-PNG-1024x415.png
+Content Type: image/png
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/uploads/2024/09/dAILY-GRIND-LOGO-PNG-150x150.png
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\uploads\2024\09\dAILY-GRIND-LOGO-PNG-150x150.png
+Content Type: image/png
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/uploads/2024/09/dAILY-GRIND-LOGO-PNG-300x122.png
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\uploads\2024\09\dAILY-GRIND-LOGO-PNG-300x122.png
+Content Type: image/png
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/uploads/2024/09/dAILY-GRIND-LOGO-PNG-768x311.png
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\uploads\2024\09\dAILY-GRIND-LOGO-PNG-768x311.png
+Content Type: image/png
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/uploads/2024/09/dAILY-GRIND-LOGO-PNG.png
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\uploads\2024\09\dAILY-GRIND-LOGO-PNG.png
+Content Type: image/png
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/uploads/2024/09/david-van-dijk-255503-unsplash-60x60-1.jpg
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\uploads\2024\09\david-van-dijk-255503-unsplash-60x60-1.jpg
+Content Type: image/jpeg
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/uploads/2024/09/drop-the-label-movement-608463-unsplash-60x60-1.jpg
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\uploads\2024\09\drop-the-label-movement-608463-unsplash-60x60-1.jpg
+Content Type: image/jpeg
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/uploads/2024/09/evstratov_-U7stODj21DU-unsplash-60x60-1.jpg
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\uploads\2024\09\evstratov_-U7stODj21DU-unsplash-60x60-1.jpg
+Content Type: image/jpeg
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/uploads/2024/09/Freepix_Man-and-woman-outside-with-hobbies-1.jpg
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\uploads\2024\09\Freepix_Man-and-woman-outside-with-hobbies-1.jpg
+Content Type: image/jpeg
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/uploads/2024/09/JMH-Typewriter.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\uploads\2024\09\JMH-Typewriter.ttf
+Content Type: font/ttf
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/uploads/2024/09/loren-gu-146832-unsplash-60x60-1.jpg
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\uploads\2024\09\loren-gu-146832-unsplash-60x60-1.jpg
+Content Type: image/jpeg
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/uploads/2024/09/teenage-boy-having-video-call-home-laptop_23-2149332869.jpg
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\uploads\2024\09\teenage-boy-having-video-call-home-laptop_23-2149332869.jpg
+Content Type: image/jpeg
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/uploads/2024/09/WEB-BANNER.jpg
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\uploads\2024\09\WEB-BANNER.jpg
+Content Type: image/jpeg
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/uploads/2024/09/young-handsome-man-choosing-clothes-shop_1303-19722.jpg
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\uploads\2024\09\young-handsome-man-choosing-clothes-shop_1303-19722.jpg
+Content Type: image/jpeg
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/uploads/elementor/css/global.css?ver=1726250413
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/uploads/elementor/css/post-19.css?ver=1726250413
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\uploads\elementor\css\post-19.css
+Content Type: text/css
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/uploads/elementor/css/post-331.css?ver=1726250414
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\uploads\elementor\css\post-331.css
+Content Type: text/css
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/uploads/elementor/css/post-7.css?ver=1726250322
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\uploads\elementor\css\post-7.css
+Content Type: text/css
+
+Uri: http://jackblog.mystartupcrew.com/wp-content/uploads/elementor/css/post-9.css?ver=1726250413
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-content\uploads\elementor\css\post-9.css
+Content Type: text/css
+
+Uri: http://jackblog.mystartupcrew.com/wp-includes/css/dist/block-library/style.min.css?ver=6.4.3
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: http://jackblog.mystartupcrew.com/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: http://jackblog.mystartupcrew.com/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: http://jackblog.mystartupcrew.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: http://jackblog.mystartupcrew.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-includes\js\dist\vendor\wp-polyfill-inert.min.js
+Content Type: application/javascript
+
+Uri: http://jackblog.mystartupcrew.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: http://jackblog.mystartupcrew.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: http://jackblog.mystartupcrew.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: http://jackblog.mystartupcrew.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: http://jackblog.mystartupcrew.com/wp-json/
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: http://jackblog.mystartupcrew.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fjackblog.mystartupcrew.com%2F
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: http://jackblog.mystartupcrew.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fjackblog.mystartupcrew.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: http://jackblog.mystartupcrew.com/wp-json/wp/v2/pages/9
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\wp-json\wp\v2\pages\9
+Content Type: application/json
+
+Uri: http://jackblog.mystartupcrew.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Playfair+Display:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Karla:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.4.3
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/karla/v31/qkBIXvYC6trAT55ZBi1ueQVIjQTD-JqaE0lP.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\s\karla\v31\qkBIXvYC6trAT55ZBi1ueQVIjQTD-JqaE0lP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/karla/v31/qkBIXvYC6trAT55ZBi1ueQVIjQTDeJ2aE0lP.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\s\karla\v31\qkBIXvYC6trAT55ZBi1ueQVIjQTDeJ2aE0lP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/karla/v31/qkBIXvYC6trAT55ZBi1ueQVIjQTDeJqaE0lP.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\s\karla\v31\qkBIXvYC6trAT55ZBi1ueQVIjQTDeJqaE0lP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/karla/v31/qkBIXvYC6trAT55ZBi1ueQVIjQTDH52aE0lP.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\s\karla\v31\qkBIXvYC6trAT55ZBi1ueQVIjQTDH52aE0lP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/karla/v31/qkBIXvYC6trAT55ZBi1ueQVIjQTDJp2aE0lP.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\s\karla\v31\qkBIXvYC6trAT55ZBi1ueQVIjQTDJp2aE0lP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/karla/v31/qkBIXvYC6trAT55ZBi1ueQVIjQTDppqaE0lP.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\s\karla\v31\qkBIXvYC6trAT55ZBi1ueQVIjQTDppqaE0lP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/karla/v31/qkBIXvYC6trAT55ZBi1ueQVIjQTDypqaE0lP.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\s\karla\v31\qkBIXvYC6trAT55ZBi1ueQVIjQTDypqaE0lP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/karla/v31/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNkcV3lIb7Y.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\s\karla\v31\qkBKXvYC6trAT7RQNNK2EG7SIwPWMNkcV3lIb7Y.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/karla/v31/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNlCV3lIb7Y.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\s\karla\v31\qkBKXvYC6trAT7RQNNK2EG7SIwPWMNlCV3lIb7Y.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/karla/v31/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNlwV3lIb7Y.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\s\karla\v31\qkBKXvYC6trAT7RQNNK2EG7SIwPWMNlwV3lIb7Y.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/karla/v31/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNmcUHlIb7Y.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\s\karla\v31\qkBKXvYC6trAT7RQNNK2EG7SIwPWMNmcUHlIb7Y.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/karla/v31/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNmlUHlIb7Y.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\s\karla\v31\qkBKXvYC6trAT7RQNNK2EG7SIwPWMNmlUHlIb7Y.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/karla/v31/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNnCUHlIb7Y.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\s\karla\v31\qkBKXvYC6trAT7RQNNK2EG7SIwPWMNnCUHlIb7Y.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/karla/v31/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNnCV3lIb7Y.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\s\karla\v31\qkBKXvYC6trAT7RQNNK2EG7SIwPWMNnCV3lIb7Y.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v37/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_gGUXtHA_A.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\s\playfairdisplay\v37\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_gGUXtHA_A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v37/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_iiUXtHA_A.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\s\playfairdisplay\v37\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_iiUXtHA_A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v37/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_k-UXtHA_A.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\s\playfairdisplay\v37\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_k-UXtHA_A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v37/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_naUXtHA_A.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\s\playfairdisplay\v37\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_naUXtHA_A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v37/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_pqTXtHA_A.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\s\playfairdisplay\v37\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_pqTXtHA_A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v37/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_qiTXtHA_A.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\s\playfairdisplay\v37\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_qiTXtHA_A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v37/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKd3vXDXbtY.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\s\playfairdisplay\v37\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKd3vXDXbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v37/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDXbtY.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\s\playfairdisplay\v37\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDXbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v37/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKebunDXbtY.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\s\playfairdisplay\v37\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKebunDXbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v37/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiunDXbtY.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\s\playfairdisplay\v37\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiunDXbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v37/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfFunDXbtY.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\s\playfairdisplay\v37\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfFunDXbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v37/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfsunDXbtY.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\s\playfairdisplay\v37\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfsunDXbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\s\roboto\v32\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\s\roboto\v32\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\s\roboto\v32\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\s\roboto\v32\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\s\roboto\v32\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\s\roboto\v32\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\s\roboto\v32\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\s\roboto\v32\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\s\roboto\v32\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\s\roboto\v32\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\s\roboto\v32\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\s\roboto\v32\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\jackblog.mystartupcrew.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
